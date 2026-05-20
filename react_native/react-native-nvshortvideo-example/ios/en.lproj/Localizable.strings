@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RNShortVideo
+
+  Created by 美摄 on 2022/11/4.
+  
+*/
+"setting"="Setting";
+"setting_item_pictures" = "Photo";
+"setting_item_filter" = "Filter";
+"setting_item_beauty" = "Beauty";
+"setting_item_music" = "Music";
+"setting_item_prop" = "Props";
+"setting_item_shooting" = "Zoom in";
+"setting_item_dual" = "Dual";
+"setting_item_edit" = "Edit";
+"setting_item_capture" = "Capture";
+"setting_item_draft" = "Draft";
+"setting_item_sticker" = "Sticker";
+"setting_item_caption" = "Caption";
+"Publish"="Publish";
+"Publish_Info"="Write a headline and use the right topic to reach more people";

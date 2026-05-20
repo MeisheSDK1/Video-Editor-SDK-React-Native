@@ -1,0 +1,31 @@
+{
+  "name": "react-native-nvshortvideo",
+  "version": "1.0.0",
+  "description": "meicam short video edit",
+  "source": "src/index",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "android",
+    "ios",
+    "react-native-nvshortvideo.podspec",
+    "!android/build",
+    "!ios/build",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "scripts": {},
+  "keywords": [
+    "react-native"
+  ],
+  "author": "meicam",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "0.78.0"
+  },
+  "devDependencies": {
+    "react-native": "^0.79.3"
+  }
+}

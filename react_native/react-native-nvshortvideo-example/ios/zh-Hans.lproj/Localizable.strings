@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RNShortVideo
+
+  Created by 美摄 on 2022/11/4.
+  
+*/
+"setting"="设置";
+"setting_item_pictures" = "影集";
+"setting_item_filter" = "滤镜";
+"setting_item_beauty" = "美化";
+"setting_item_music" = "音乐";
+"setting_item_prop" = "道具";
+"setting_item_sticker" = "贴纸";
+"setting_item_caption" = "字幕";
+"setting_item_shooting" = "推镜拍摄";
+"setting_item_dual" = "合拍";
+"setting_item_edit" = "编辑";
+"setting_item_capture" = "拍摄";
+"setting_item_draft" = "草稿";
+"Publish"="发布";
+"Publish_Info"="写标题并使用合适的话题，能让更多人看到～";
